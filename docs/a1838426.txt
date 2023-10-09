@@ -10,3 +10,6 @@
 
 - Initial commit
 
+### Deleted
+
+- Deletion 'XXXXXXX' insertions in line 1 and 3 (#11)
